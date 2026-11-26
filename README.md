@@ -20,3 +20,8 @@ Contoso Travel to fikcyjne biuro podróży specjalizujące się w organizacji wy
 | Imię | Rola |
 | --- | --- |
 | Adele Vance | opiekun projektu |
+
+## Oferta
+- kierunek 1
+- kierunek 2
+- kierunek 3
