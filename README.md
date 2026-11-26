@@ -25,3 +25,5 @@ Contoso Travel to fikcyjne biuro podróży specjalizujące się w organizacji wy
 - kierunek 1
 - kierunek 2
 - kierunek 3
+
+Pomysł na wycieczke
